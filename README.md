@@ -18,4 +18,4 @@ Additional references.
 5. [ML for combinatorial optimization](https://simons.berkeley.edu/talks/dorit-hochbaum-2017-5-3)
 
 SP overview
-Ads sourced with bids by agents [contextual bandits] => ranked list from auction [auction] => imressions from allocation [knapsack]
+* Ads sourced with bids by agents [contextual bandits] => ranked list from auction [auction] => imressions from allocation [knapsack]
